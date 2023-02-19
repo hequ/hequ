@@ -1,6 +1,6 @@
 Hi! I'm @hequ!
 
-I'm a backend / cloud developer, mostly typescript, aws, azure.
+I'm a backend focused fullstack developer. Golang, Rust, Typescript, Kubernetes, AWS, GCP.
 
 I write blog, and occasionally also a newsletter (will link these here later).
 
