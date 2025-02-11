@@ -1,12 +1,12 @@
 Hi! I'm @hequ!
 
-I'm a backend focused fullstack developer. Golang, Rust, Typescript, Kubernetes, AWS, GCP.
+I'm a fullstack developer. Golang, Rust, Typescript, Kubernetes, AWS, GCP.
 
 I write blog, and occasionally also a newsletter (will link these here later).
 
-You can reach me on twitter or linkedin:
+You can reach me on X or LinkedIn:
 
-- https://twitter.com/hequmania
+- https://x.com/hequmania
 - https://www.linkedin.com/in/hkinnunen/
 
 
